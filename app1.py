@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.title("Umayy menemukan inovasi baru dengan menemukan Kalkulator Sederhana")
+    st.title("Umayy :cherry_blossom: menemukan inovasi baru dengan menemukan Kalkulator Sederhana")
     st.write("Aplikasi ini menghitung operasi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.")
     
     # Input angka pertama
