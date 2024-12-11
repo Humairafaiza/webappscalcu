@@ -3,7 +3,10 @@ import streamlit as st
 def main():
     st.title("Umayy :cherry_blossom: menemukan inovasi baru dengan menemukan Kalkulator Sederhana")
     st.write("Kalkulator ajaib untuk menghitung :sushi:.")
-    
+    st.write("Umay pacar Adit :cupid:")
+    st.write("Umay sayang Adit Selamanyaa :dizzy:")
+    st.write("Umayy suka makan nasipadang pomad :arrow_double_up::arrow_double_up::arrow_double_up:")
+     
     # Input angka pertama
     num1 = st.number_input("Masukkan angka pertama:", value=0.0, step=1.0)
 
